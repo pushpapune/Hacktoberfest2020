@@ -5,3 +5,9 @@ Make PRs
 - [X] What kernels extract
 - [] Feature Maps
 - [] How kernels Look
+
+#### Q. In traditional computer programming, you input commands. What do you input with machine learning?
+- [ ] patterns
+- [ ] programs
+- [ ] rules
+- [x] data
