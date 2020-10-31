@@ -17,3 +17,9 @@ Make PRs
 - [ ] clustering
 - [ ] classification
 - [ ] dimensionality reduction
+
+#### Q. You are working on a project that involves clustering together images of different dogs. You take image and identify it as your centroid image. What type machine learning algorithm are you using?
+- [ ] centroid reinforcement
+- [ ] K-nearest neighbor
+- [ ] binary classification
+- [x] K-means clustering
