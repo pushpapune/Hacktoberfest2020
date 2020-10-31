@@ -11,3 +11,9 @@ Make PRs
 - [ ] programs
 - [ ] rules
 - [x] data
+
+### Q. You work for a music streaming service and want to use supervised machine learning to classify music into different genres. Your service has collected thousands of songs in each genre, and you used this as your training data. Now you pull out a small random subset of all the songs in your service. What is this subset called?
+- [ ] data cluster
+- [ ] Supervised set
+- [ ] big data
+- [x] test data
