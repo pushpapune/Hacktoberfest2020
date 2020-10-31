@@ -11,3 +11,9 @@ Make PRs
 - [ ] programs
 - [ ] rules
 - [x] data
+
+#### Q. To predict a quantity value. use ____.
+- [x] regression
+- [ ] clustering
+- [ ] classification
+- [ ] dimensionality reduction
