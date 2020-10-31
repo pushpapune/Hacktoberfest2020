@@ -23,3 +23,9 @@ Make PRs
 - [ ] K-nearest neighbor
 - [ ] binary classification
 - [x] K-means clustering
+
+#### Q. Your company wants you to build an internal email text prediction model to speed up the time that employees spend writing emails. What should you do?
+- [x] Include training email data from all employees.
+- [ ] Include training email data from new employees.
+- [ ] Include training email data from seasoned employees.
+- [ ] Include training email data from employees who write the majority of internal emails.
